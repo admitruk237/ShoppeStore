@@ -1,4 +1,5 @@
 if (window.location.pathname.includes('/contact')) {
+  //валідація форми
   class User {
     constructor(
       nameInput,
